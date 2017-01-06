@@ -1,0 +1,59 @@
+#------------------------------------------------------------------------------
+# 
+# Securities Portfolio
+#
+# Format of this file
+# -------------------
+# - three-column table; columns separated by strings of spaces and/or tabs
+#
+# - each row of table occupies precisely one line
+#
+# - the columns, in left-to-right order, represent stock symbol, 
+#   number of shares, and average share cost
+#
+# - if the first character in a line is '#', the line is a comment;
+#   comments are to be ignored for processing purposes
+#
+# - blank (i.e., empty or all whitespace) lines are to be ignored
+# 
+#------------------------------------------------------------------------------
+ 
+ 
+# TICKER           AVG. COST
+# SYMBOL  #SHARES  PER SHARE
+# ======  =======  =========
+ 
+ 
+AAPL          300      32.00
+ 
+AEP           100      28.25
+ 
+C             100      28.13
+ 
+CMCSA          80       0.00
+ 
+HWP            75      30.38
+ 
+ORCL          100      13.55
+ 
+SLE           100      17.85
+ 
+T              50     162.15
+ 
+BAC            55      58.62
+ 
+CAG           100      18.55
+ 
+GE            100      33.85
+ 
+GLW           300      27.25
+ 
+KFT           100      30.73
+ 
+PFE           100      39.16
+ 
+CSCO          100      28.35
+ 
+DIS           100      30.74
+ 
+TWX            50      12.37
